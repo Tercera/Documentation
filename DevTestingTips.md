@@ -7,6 +7,7 @@
 5. Close the app in a middle of an API call to see what happens
 6. Get a phone call when you're using the app on device or a push notification, does the app crash or still work?
 7. On device, use the app as you would others -- switching between different apps -- make sure it stands up to this kind of usage.
+8. Did you lock the app into portrait/landscape mode? If not does it adjust as expected when you do move the phone, on device and also emulator/simulator?
 
 ### iOS
 - iPhone 8
