@@ -1,4 +1,6 @@
-# Here's a list of tasks that you can come back to or complete in-between other tasks, during times when you're blocked, or wait until the end of app development.
+# Evergreen Tasks
+
+Here's a list of tasks that you can come back to or complete in-between other tasks, during times when you're blocked, or wait until the end of app development.
 
 - Splash screens: this is usually an iOS only task, but you can do both [here](https://www.reactnativeschool.com/simple-splash-launch-boot-screen-in-react-native-ios-and-android) is an example.
 - clearing the keyboard from the inputs: this is something you need to ensure in _every app_ that has inputs, this will _drastically_ impact user experience. there are a variety of ways to make this happen, depending on what your needs are. some apps have custom build components for this purpose, here are a few libraries of interest, [keyboard spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) & `react-native-keyboard-aware-scroll-view` [here](https://github.com/APSL/react-native-keyboard-aware-scroll-view).
