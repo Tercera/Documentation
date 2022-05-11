@@ -14,3 +14,4 @@ Here's a list of tasks that you can come back to or complete in-between other ta
 - create utility functions to format titles, names, dates
 - ensure that all titles/icons/text that should be _center aligned in a row_ is not off on all devices (phone/tablet) and platforms (iOS/Android/etc)
 - ensure that the tab icons (if there are any) toggle color when they are focused/unfocused
+- use `NetInfo` to add an error screen in case the Internet connection goes out
