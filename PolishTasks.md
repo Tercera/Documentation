@@ -15,4 +15,5 @@ These are tasks you're going to want to go through when you're winding down a pr
 - Is there a loading screen or some sort of UI telling the user that something is happening and they have to just sit tight?
 - Push notifications are working as expected - you get them, if you tap on them they take you to the right screen, etc.
 - Any sensitive user information is being stored as [securely](https://reactnative.dev/docs/security) as [possible](https://github.com/mCodex/react-native-sensitive-info).
+- There's a "connection error" or some other kind of error when there's no wifi signal.
  
