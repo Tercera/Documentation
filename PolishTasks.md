@@ -16,4 +16,5 @@ These are tasks you're going to want to go through when you're winding down a pr
 - Push notifications are working as expected - you get them, if you tap on them they take you to the right screen, etc.
 - Any sensitive user information is being stored as [securely](https://reactnative.dev/docs/security) as [possible](https://github.com/mCodex/react-native-sensitive-info).
 - There's a "connection error" or some other kind of error when there's no wifi signal.
+- You have removed all `console.log`s, notes, commented out code, anything that does not belong in production should be deleted.
  
