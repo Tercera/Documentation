@@ -31,6 +31,20 @@
 - Try multiple devices
 - Make sure to report any inputs not cleared, or that you can't scroll to see.
 
+# Scroll
+- Does the scrolling work as expected?
+- Are any bottom items unreachable or cut off?
+- Is there a lot of blank space at the bottom?
+- If it's an infinite scroll, does content take too long to load when you are scrolling quickly?
+- If it's paginated, do you get a refreshed set of items as you scroll?
+
+# Connection
+- When you go to airplane mode, do you get an error saying you've lost the connection?
+
+# Loading & User Feedback
+- When the app loads, is there a loader that tells the user what's going on?
+- When the user fills out forms, are there error or success messages (as expected) to tell the user what's going on?
+
 # Orientation
 - Can you move the phone horizontally and see the content displayed that way? (If that's a part of the app)
 - If you're not supposed to be able to horizontally display, that's a bug.
